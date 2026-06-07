@@ -3,5 +3,9 @@
   "subscriberCount": 0,
   "freeDailySpins": 5,
   "subscriberDailySpins": 25,
-  "goal": null
+  "goal": null,
+  "update": {
+    "version": "1.0.0",
+    "minimumVersion": "1.0.0"
+  }
 }
